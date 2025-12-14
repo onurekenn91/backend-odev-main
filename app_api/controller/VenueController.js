@@ -12,7 +12,7 @@ const updateVenue = async function (req, res) {
       coordinates: [req.body.lat, req.body.long]
     };
 
-    // ⛔ hours sadece days1 geldiyse eklenecek
+    
     if (req.body.days1 && req.body.days2) {
       updateData.hours = [
         {

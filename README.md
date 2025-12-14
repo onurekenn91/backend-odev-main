@@ -1,4 +1,4 @@
-**Demo:** [https://mekanbul-backend-odev-gamma.vercel.app/](https://mekanbul-backend-odev-gamma.vercel.app/)
+**Demo:** [https://backend-odev-main.vercel.app/](https://backend-odev-main.vercel.app/)
 
 
 ##  Kısa Açıklama
