@@ -37,16 +37,16 @@ Aşağıda API testlerinin sonuçları yer almaktadır:
 ![Get Venue](./tests/GetVenue.png)
 
 ### 4. Mekan Güncelle (Update Venue)
-![Update Venue](./tests/UpdateVanue.png)
+![Update Venue](./tests/UpdateVenue.png)
 
 ### 5. Mekan Sil (Delete Venue)
-![Delete Venue](./tests/DeleteVanue.png)
+![Delete Venue](./tests/DeleteVenue.png)
 
 ### 6. Yorum Ekle (Add Comment)
 ![Add Comment](./tests/AddComment.png)
 
 ### 7. Yorum Getir (Get Comment)
-![Get Comment](./tests/Getcomment.png)
+![Get Comment](./tests/GetComment.png)
 
 ### 8. Yorum Güncelle (Update Comment)
 ![Update Comment](./tests/UpdateComment.png)
